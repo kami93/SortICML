@@ -1,3 +1,6 @@
+# Warning
+This program is outdated. See [SortMyConf](https://github.com/kami93/SortMyConf) for the latest version.
+
 # SortICML
 Sort [ICML](https://icml.cc/) papers by the number of citations.
 
